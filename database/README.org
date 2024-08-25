@@ -1,0 +1,5 @@
+#+title: Readme
+
+* Set up
+
+[[https://docs.percona.com/percona-operator-for-postgresql/2.0/kubectl.html#prerequisites][Percona PostgreSQL DB set up]]
