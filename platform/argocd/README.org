@@ -1,0 +1,5 @@
+#+title: Readme
+
+* Set up
+
+[[https:argo-cd.readthedocs.io/en/stable/getting_started/][ArgoCD set up steps]]
