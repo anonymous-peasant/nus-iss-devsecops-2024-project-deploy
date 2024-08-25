@@ -19,6 +19,6 @@ spec:
         app: backend
     spec:
       containers:
-        - image: ghcr.io/nus-iss-devsecops-2024-project-app/backend-spring-boot-app:2be4a08183bca6f81e65bccc3822b9710053654b
+        - image: ghcr.io/anonymous-peasant/backend-spring-boot-app:30cf165296c869084b990e7ac2f214a880354903
           name: backend
           resources: {}
